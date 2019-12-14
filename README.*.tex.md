@@ -12,3 +12,5 @@
 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=SIM(u_{i},u_{j})&space;=&space;\sum_{k\in&space;C_{i,j}}PIP(r_{ik},r_{jk})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?SIM(u_{i},u_{j})&space;=&space;\sum_{k\in&space;C_{i,j}}PIP(r_{ik},r_{jk})" title="SIM(u_{i},u_{j}) = \sum_{k\in C_{i,j}}PIP(r_{ik},r_{jk})" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=PIP(r1,&space;r2)&space;=&space;Proximity(r1,&space;r2)&space;\times&space;Impact(r1,&space;r2)&space;\times&space;Popularity(r1,&space;r2)." target="_blank"><img src="https://latex.codecogs.com/gif.latex?PIP(r1,&space;r2)&space;=&space;Proximity(r1,&space;r2)&space;\times&space;Impact(r1,&space;r2)&space;\times&space;Popularity(r1,&space;r2)." title="PIP(r1, r2) = Proximity(r1, r2) \times Impact(r1, r2) \times Popularity(r1, r2)." /></a>
